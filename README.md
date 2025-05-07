@@ -3,6 +3,8 @@ This project hooks into the Tiltify API to look for new donations to a Tiltify c
 
 Before following the instructions below, make sure you [download the project here](https://github.com/aspencuozzo/tiltify-obs-overlay/archive/refs/heads/main.zip) and un-zip it.
 
+https://github.com/user-attachments/assets/9c2f8818-02bc-414f-9b81-f63ff4f2d01e
+
 ## OBS setup
 ### All operating systems
 1. Ensure OBS is updated to the most recent version.
