@@ -113,7 +113,7 @@ def test_alert():
     print(f"[{timestamp()}] Sending a test alert.")
     
     # Uncomment the below line to send a test alert on Twitch
-    # twitch.bot.send_alert("Test Donation", "0.00", "This is a test donation.")
+    twitch.bot.send_alert("Test Donation", "0.00", "This is a test donation.")
 
     send_alert_obs("Test Donation", "0.00")
 
